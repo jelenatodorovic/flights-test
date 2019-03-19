@@ -11,3 +11,9 @@ mvn clean verify
   <li>Maven</li>
 </ul>
 
+<h2>Additional steps that could be part of automation framework:</h2>
+<ul>
+  <li>Suite files for execution</li>
+  <li>Better reporting</li>
+  <li>Support Remote web driver, so scripts can run remotely</li>
+</ul>
